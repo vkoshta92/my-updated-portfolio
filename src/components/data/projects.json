@@ -1,8 +1,16 @@
 [
   {
     "key": 1,
+    "title": "my npm package",
+    "imageSrc": "https://miro.medium.com/v2/resize:fit:932/1*3dflltxefAAYTYQVxIj5FQ.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.npmjs.com/package/vishnu-ui",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 5,
     "title": "Udemy Clone",
-    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "imageSrc": "https://frontends.udemycdn.com/frontends-homepage/staticx/udemy/images/v7/logo-udemy.svg",
     "description": "This is a project made with complete Html Css Js.",
     "demo": "https://65e40e3a7dacf143abf9a7d6--effervescent-frangipane-ed03fd.netlify.app/",
     "source": "https://www.github.com"
@@ -26,9 +34,10 @@
   {
     "key": 4,
     "title": "Dribble",
-    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/32/Dribbble_logo.png",
     "description": "This is a project made with complete React js.",
     "demo": "https://65e40d3b72ff4c469b2257db--shimmering-travesseiro-3f36b0.netlify.app/",
     "source": "https://www.github.com"
   }
+
 ]

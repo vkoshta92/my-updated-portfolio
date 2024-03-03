@@ -25,5 +25,21 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+  {
+    "title": "Vue",
+    "imageSrc": "skills/vue.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Gsap",
+    "imageSrc": "skills/gsap.png"
   }
 ]
