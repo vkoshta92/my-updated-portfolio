@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": " Frontend  Deveeloper",
+    "organisation": "Comely EnterPrise",
+    "startDate": "Feb, 2023",
+    "endDate": "July 2023",
+    "location": "New Delhi India",
+    "experiences": [
+      "Worked on frontend dovelopment",
+      "Worked with the team"
+    ],
+    "imageSrc": "company/comely.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Frontend  Developer",
+    "organisation": "RNG Play",
+    "startDate": "July, 2023",
+    "endDate": "Jan, 2024",
+    "location": "Noida, India",
+    "experiences": [
+      "Worked on frontend dovelopment",
+      "Worked with the Core team"
+    ],
+    "imageSrc": "company/rng.jpg"
+  },
+  {
+    "id": 3,
+    "role": "Web Developer",
+    "organisation": "Gamix Labs",
+    "startDate": "Jan, 2024",
+    "endDate": "Current",
+    "location": "Noida, India",
+    "experiences": [
+      "Worked on Angular and Vue framework  ",
+      "Worked with the Core team"
+    ],
+    "imageSrc": "company/gamix.jpg"
+  }
+]
